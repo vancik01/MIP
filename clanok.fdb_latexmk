@@ -1,17 +1,16 @@
 # Fdb version 3
-["bibtex /Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok"] 1665572096 "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.aux" "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.bbl" "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok" 1665572097
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.aux" 1665572097 2756 e56f4803b7d97c85e29c9b7ce7c99af2 "pdflatex"
+["bibtex /Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok"] 1667389001 "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.aux" "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.bbl" "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok" 1667389149
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.aux" 1667389149 2785 64831800a86fb2c678566b2c86bc6294 "pdflatex"
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "literatura.bib" 1665569721 1700 1805dd2cfabd811dbbfc722fd5a0d92a ""
   (generated)
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.bbl"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.blg"
-["pdflatex"] 1665572096 "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.tex" "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.pdf" "clanok" 1665572097
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/Diagram.pdf" 1665569497 8463 360d023adf4764fd96f6b0507fd07f2b ""
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.aux" 1665572097 2756 e56f4803b7d97c85e29c9b7ce7c99af2 "pdflatex"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.bbl" 1665572096 945 6d502c1b79de3c6d3d5d3aa0c569ba08 "bibtex /Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.out" 1665572097 982 dca731da2fc82593bb099e907eb500f3 "pdflatex"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.tex" 1665572095 3496 63a50beb4925b85a3808419d54e8f8bf ""
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.bbl"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.blg"
+["pdflatex"] 1667389148 "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.tex" "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.pdf" "clanok" 1667389149
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.aux" 1667389149 2785 64831800a86fb2c678566b2c86bc6294 "pdflatex"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.bbl" 1667389001 945 6d502c1b79de3c6d3d5d3aa0c569ba08 "bibtex /Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.out" 1667389149 1021 5f68b6c4a32e0c6ae2e113b7ecd4710f "pdflatex"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.tex" 1667389148 4568 0cba8678227328249c4744dd71552d6a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1136768653 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -122,7 +121,7 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664453227 2826439 949694fcd9a076d81ee8a41e43ef557a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   (generated)
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.aux"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.log"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.out"
-  "/Users/martinvanco/Documents/FIIT/Metódy inžinierskej práce/Finálny Článok/clanok.pdf"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.aux"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.log"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.out"
+  "/Users/martinvanco/Documents/FIIT/MIP/Finálny Článok/clanok.pdf"
